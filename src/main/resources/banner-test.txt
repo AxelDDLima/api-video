@@ -1,0 +1,13 @@
+     ___      .______    __         .___________. _______     _______.___________. _______
+    /   \     |   _  \  |  |        |           ||   ____|   /       |           ||   ____|
+   /  ^  \    |  |_)  | |  |  ______`---|  |----`|  |__     |   (----`---|  |----`|  |__
+  /  /_\  \   |   ___/  |  | |______|   |  |     |   __|     \   \       |  |     |   __|
+ /  _____  \  |  |      |  |            |  |     |  |____.----)   |      |  |     |  |____
+/__/     \__\ | _|      |__|            |__|     |_______|_______/       |__|     |_______|
+
+Application: ${spring.application.name}
+Version: ${spring.application.version}
+Java: ${spring.application.java}
+Spring Boot: ${spring-boot.version}
+Port: ${server.port}
+Dev: AXEL DOUGLAS
